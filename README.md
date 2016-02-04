@@ -1,2 +1,5 @@
 # DogPvP
-DogPvP - The ultimate resource pack
+
+DogPvP is a beautiful Minecraft PvP-Resource Pack by KingOfDog. 
+
+## More coming soon...
