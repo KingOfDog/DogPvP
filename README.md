@@ -1,5 +1,3 @@
-# DogPvP
-
 ## English
 ### What is DogPvP?
 
@@ -9,11 +7,14 @@ In this resource pack are new sounds, blocks, items, languages, 3D models and mo
 
 *To be continued*
 
+
 ### How to install?
 1. Download the resource pack
 2. Open Minecraft and go to `Options` and then to `Resource Packs`
 3. Click on `Open Resource Pack folder`
 4. Drag and drop the downloaded file here
+
+
 
 ## Deutsch
 ### Was ist DogPvP?
@@ -23,6 +24,7 @@ DogPvP ist ein PvP-[Minecraft] [mc]-Resource Pack erstellt von dem Youtuber [Kin
 Mit DogPvP werden neue Sounds, Blöcke, Items, Sprachen, 3D-Modelle und mehr hinzugefügt, damit der Spieler mehr Spaß an Minecraft hat! [Installation?](#installation)
 
 *Weiteres folgt*
+
 
 ### Installation
 1. Downloade das Resource Pack
